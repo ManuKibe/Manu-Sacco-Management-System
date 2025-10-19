@@ -36,3 +36,34 @@ travel-ticketing-system/
 ├── docker-compose.yml        # (Optional) Containerization setup
 ├── LICENSE                   # License file (MIT, Apache, etc.)
 └── README.md                 # Main project overview
+# 🚌 Travel & Ticketing System
+
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express.js-4.x-lightgrey.svg)](https://expressjs.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.x-blue.svg)](https://www.mysql.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+## 📋 Overview
+The **Travel & Ticketing System** is a web-based application built for travel companies and Saccos to manage:
+- Vehicle registration and coding  
+- Trip scheduling  
+- Passenger ticketing and payments  
+- Real-time alerts to vehicle owners  
+- Basic reporting dashboard  
+
+It’s designed to improve efficiency, accountability, and transparency in travel operations.
+
+---
+
+## ⚙️ Tech Stack
+
+**Frontend:** React.js (or HTML/CSS/Bootstrap if simpler)  
+**Backend:** Node.js with Express.js  
+**Database:** MySQL  
+**Other Tools:** Nodemon, dotenv, MySQL2  
+
+---
+
+## 📁 Folder Structure
+
+
